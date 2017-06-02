@@ -1,30 +1,14 @@
 # README #
 
-BaseiOS repository
+##iOS mentorship repository ##
 
 ### How do I get set up? ###
 
-* Install the latest version of xCode.
-* Swift version 3.1 was the last version of Swift used.
+* Clone the repository `git clone git@github.com:CottaCush/base-ios-project.git`
 
-### Getting Started ###
+* Install the latest version of xCode with Swift 3.1 or higher.
 
-* Clone the repository
-
-`git clone git@bitbucket.org:cottacush/total_ios.git`
-
-Setup Cocoapods to have access to the libraries above.
-
-`pod init`
-
-Then add the following dependencies to your generated Podfile
-
-##Dependencies : Managed using Cocoapods ver 1.2.1##
-* Alamofire = Network api calls
-* EVReflection = Json Serialization
-* IQKeyboardManagerSwift = Keyboard control
-
-Build and report any issues directly to me. 😁
+* Build and install on device of choice with iOS 10.0 and higher.
 
 ### Contributors ###
-* Akapo Damilola [fdamilola@cottacush.com](mailto:fdamilola@cottacush.com)
+* Akapo Damilola [fdamilola@gmail.com](mailto:fdamilola@gmail.com)
